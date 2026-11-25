@@ -1,0 +1,13 @@
+# Maven generated files
+target/
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+*.iml
+
+# Windows files
+Thumbs.db
+.DS_Store
